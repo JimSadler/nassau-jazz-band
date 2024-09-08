@@ -1,5 +1,14 @@
 @import './base.css';
-
+body:has(.v-navigation-drawer.v-theme--light) {
+  background: #fff;
+  color: #333;
+  transition: background-color 0.5s, color 0.5s;
+}
+body:has(.v-navigation-drawer.v-theme--dark) {
+  background: #333;
+  color: #fff;
+  transition: background-color 0.5s, color 0.5s;
+}
 #app {
   /*max-width: 1280px;*/
   /*margin: 0 auto;*/
@@ -17,7 +26,8 @@ a,
 
 @media (hover: hover) {
   a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+    background-color: 	hsla(212, 77%, 42%, 0.2);
+    /*background-color: hsla(160, 100%, 37%, 0.2);*/
   }
 }
 
