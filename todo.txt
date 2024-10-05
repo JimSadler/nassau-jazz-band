@@ -1,0 +1,38 @@
+
+Assets to get
+    - images of the board
+    - more images of the bands
+
+
+Pages/sections to build out
+    - footer
+    - bands page
+        -more info on the bands
+        -band descriptions
+        -band photos
+
+    - about page
+        - history
+        - mission
+        - board
+        - staff
+    -concert and community page
+        - concert schedule
+        - community events
+        - community partners
+    - contact page
+        - contact form
+        - contact info
+    -support ncb page
+        - volunteer
+        - sponsor
+        - advertise
+        - donate button
+        - donate info
+    - band members page
+        - member bios
+        - members lost
+        - past directors
+    -media page
+        - videos
+        - photos

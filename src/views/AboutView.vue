@@ -66,12 +66,7 @@
         <div class="d-flex justify-center align-center mt-7">
           <div class="mx-5">
             <div>
-              <v-img
-                src="/man_placeholder.png"
-                width="200px;"
-                class=""
-                style="border-radius: 50%"
-              />
+              <v-img src="/man_placeholder.png" width="200px;" class="" rounded="circle" />
             </div>
             <div style="width: 150px">
               <p>President:</p>
@@ -80,12 +75,7 @@
           </div>
           <div class="mx-5">
             <div>
-              <v-img
-                src="/man_placeholder.png"
-                width="200px;"
-                class=""
-                style="border-radius: 50%"
-              />
+              <v-img src="/man_placeholder.png" width="200px;" class="" rounded="circle" />
             </div>
             <div style="width: 150px">
               <p>Vice-President:</p>
@@ -93,79 +83,49 @@
             </div>
           </div>
           <div class="mx-5">
-            <v-img
-              src="/woman_placeholder.png"
-              width="200px;"
-              class=""
-              style="border-radius: 50%"
-            />
+            <v-img src="/woman_placeholder.png" width="200px;" class="" rounded="circle" />
             <div style="width: 150px">
               <p>Secretary:</p>
               <p>Holly Stewart</p>
             </div>
           </div>
           <div class="mx-5">
-            <v-img src="/man_placeholder.png" width="200px;" class="" style="border-radius: 50%" />
+            <v-img src="/man_placeholder.png" width="200px;" class="" rounded="circle" />
             <div style="width: 150px">
               <p>Treasurer:</p>
               <p>Jose Miranda</p>
             </div>
           </div>
           <div class="mx-5">
-            <v-img
-              src="/woman_placeholder.png"
-              width="200px;"
-              class=""
-              style="border-radius: 50%"
-            />
+            <v-img src="/woman_placeholder.png" width="200px;" class="" rounded="circle" />
             <div style="width: 150px">
               <p>Membership:</p>
               <p>Debbie Vines</p>
             </div>
           </div>
           <div class="mx-5">
-            <v-img
-              src="/woman_placeholder.png"
-              width="200px;"
-              class=""
-              style="border-radius: 50%"
-            />
+            <v-img src="/woman_placeholder.png" width="200px;" class="" rounded="circle" />
             <div style="width: 150px">
               <p>Librarian:</p>
               <p>Claudia Duncan</p>
             </div>
           </div>
           <div class="mx-5">
-            <v-img
-              src="/woman_placeholder.png"
-              width="200px;"
-              class=""
-              style="border-radius: 50%"
-            />
+            <v-img src="/woman_placeholder.png" width="200px;" class="" rounded="circle" />
             <div style="width: 150px">
               <p>Librarian:</p>
               <p>Mary Nuttall</p>
             </div>
           </div>
           <div class="mx-5">
-            <v-img
-              src="/woman_placeholder.png"
-              width="200px;"
-              class=""
-              style="border-radius: 50%"
-            />
+            <v-img src="/woman_placeholder.png" width="200px;" class="" rounded="circle" />
             <div style="width: 150px">
               <p>Publicity:</p>
               <p>Lori Kale</p>
             </div>
           </div>
           <div class="mx-5">
-            <v-img
-              src="/woman_placeholder.png"
-              width="200px;"
-              class=""
-              style="border-radius: 50%"
-            />
+            <v-img src="/woman_placeholder.png" width="200px;" class="" rounded="circle" />
             <div style="width: 150px">
               <p>Fund Raising:</p>
               <p>Francis Flood</p>
