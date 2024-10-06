@@ -2,111 +2,112 @@
 import { ref } from 'vue'
 const members = ref([
   {
-    name: 'John Doe',
-    role: 'Trumpet',
+    name: 'Stephen Hanner',
+    role: 'Alto,Tenor Saxophone',
     image: '/band_members/sax-placeholder.jpg'
   },
   {
-    name: 'Jane Doe',
-    role: 'Trombone',
-    image: '/band_members/sax-placeholder.jpg'
-  },
-  {
-    name: 'John Smith',
+    name: 'Larry Blaustein',
     role: 'Saxophone',
     image: '/band_members/sax-placeholder.jpg'
   },
   {
-    name: 'Jane Smith',
-    role: 'Clarinet',
+    name: 'Sara Larrimore',
+    role: 'Saxophone',
     image: '/band_members/sax-placeholder.jpg'
   },
   {
-    name: 'John Johnson',
-    role: 'Flute',
+    name: 'Ken Sanders',
+    role: 'Saxophone',
     image: '/band_members/sax-placeholder.jpg'
   },
   {
-    name: 'Jane Johnson',
-    role: 'Oboe',
+    name: 'Johnnie Robinson',
+    role: 'Saxophone',
+    image: '/band_members/sax-placeholder.jpg'
+  },
+  {
+    name: 'Mark Moore',
+    role: 'Trumpet',
     image: '/band_members/trumpet_placeholder.jpg'
   },
   {
-    name: 'John Brown',
-    role: 'Bassoon',
+    name: 'Buddy Drewry',
+    role: 'Trumpet',
     image: '/band_members/trumpet_placeholder.jpg'
   },
   {
-    name: 'Jane Brown',
-    role: 'Horn',
+    name: 'Brian Tomlinson',
+    role: 'Trumpet',
+    image: '/band_members/bryantomlinson.jpg'
+  },
+  {
+    name: 'Bruce Byrd',
+    role: 'Trumpet',
     image: '/band_members/trumpet_placeholder.jpg'
   },
   {
-    name: 'John White',
+    name: 'Jim Hinchee',
+    role: 'Trumpet',
+    image: '/band_members/jim_hinchee.jpeg'
+  },
+  {
+    name: 'Markus Dickman',
+    role: 'Director, Lead Trombone',
+    image: '/band_members/trombone_placeholder.jpg'
+  },
+  {
+    name: 'Steve Whitman',
     role: 'Tuba',
-    image: '/band_members/trumpet_placeholder.jpg'
-  },
-  {
-    name: 'Jane White',
-    role: 'Percussion',
-    image: '/band_members/trumpet_placeholder.jpg'
-  },
-  {
-    name: 'John Black',
-    role: 'Conductor',
     image: '/band_members/trombone_placeholder.jpg'
   },
   {
-    name: 'Jane Black',
-    role: 'Assistant Conductor',
+    name: 'Lyle Thompson',
+    role: 'Tuba/Trombone',
     image: '/band_members/trombone_placeholder.jpg'
   },
   {
-    name: 'John Green',
-    role: 'Librarian',
+    name: 'Bill Bishop',
+    role: 'Trombone',
     image: '/band_members/trombone_placeholder.jpg'
   },
-  {
-    name: 'Jane Green',
-    role: 'Assistant Librarian',
-    image: '/band_members/trombone_placeholder.jpg'
-  },
-  {
-    name: 'John Red',
-    role: 'Publicity',
-    image: '/band_members/trombone_placeholder.jpg'
-  },
+  // {
+  //   name: 'John Red',
+  //   role: 'Publicity',
+  //   image: '/band_members/trombone_placeholder.jpg'
+  // },
 
   {
-    name: 'Jane Blue',
-    role: 'Assistant Membership',
+    name: 'Nora Whittman',
+    role: 'Flute',
     image: '/band_members/flute_placeholder.jpg'
   },
 
   {
-    name: 'Jane Yellow',
-    role: 'Treasurer',
+    name: 'Sally',
+    role: 'Piano/Keyboard',
     image: '/band_members/piano_placeholder.jpg'
   },
   {
-    name: 'John Orange',
-    role: 'Vice President',
+    name: 'Richard Whitt',
+    role: 'Drums/Percussion',
     image: '/band_members/drumkit_placeholder.jpg'
   },
   {
-    name: 'Jane Orange',
-    role: 'President',
+    name: 'Mike Cifranic',
+    role: 'Drums/Percussion',
     image: '/band_members/drumkit_placeholder.jpg'
   },
   {
-    name: 'John Purple',
-    role: 'Webmaster',
-    image: '/band_members/guitar_placeholder.jpg'
+    name: 'Jim Sadler',
+    role: 'Guitar',
+    image: '/band_members/jim_square2.jpg',
+    background: `url('/band_members/guitar_placeholder.jpg') `
   },
   {
-    name: 'Jane Purple',
-    role: 'Assistant Webmaster',
-    image: '/band_members/bass_placeholder.jpg'
+    name: 'Chuck Belinski',
+    role: 'Electric Bass',
+    image: '/band_members/chuck.jpeg'
   }
 ])
 </script>
